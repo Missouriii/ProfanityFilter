@@ -9,7 +9,4 @@ website: "https://github.com/ReinfyTeam/ProfanityFilter"
 author: "ReinfyTeam"
 authors: ["NhanAZ","xqwtxon","xVoiqMC"]
 permissions:
-  profanityfilter.command:
-    description: ProfanityFilter Operator Permission
-    default: op
 ...
